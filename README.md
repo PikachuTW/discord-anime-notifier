@@ -1,4 +1,4 @@
-# Discord Anime notifier
+# Discord Anime Notifier
 
 This is a simple discord bot which notifies you when a new episode of an anime is released.
 
