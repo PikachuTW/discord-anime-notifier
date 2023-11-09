@@ -1,8 +1,8 @@
-Discord Anime notifier
+# Discord Anime notifier
 
 This is a simple discord bot which notifies you when a new episode of an anime is released.
 
-Anime sources:
+Current anime sources:
 - [Ani Gamer](https://ani.gamer.com.tw/)
 - [Ani-One YouTube](https://www.youtube.com/@AniOneAnime/)
 
